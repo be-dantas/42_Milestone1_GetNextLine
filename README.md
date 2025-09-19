@@ -1,4 +1,4 @@
-# Milestone1 Get Nex tLine
+# Milestone1 Get Next Line
 
 Este repositório contém a solução para o Get Next Line (GNL), um projeto fundamental do currículo da Escola 42. O principal objetivo é implementar, do zero, uma função em C que lê de um descritor de arquivo, retornando uma linha por vez. A função deve ser robusta, eficiente e capaz de lidar com múltiplos descritores de arquivo simultaneamente.
 
